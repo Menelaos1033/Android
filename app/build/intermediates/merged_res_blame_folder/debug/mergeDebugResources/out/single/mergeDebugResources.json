@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_file.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_main21.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main21.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_me.png.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_layout3.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_layout3.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_contact2.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\contact2.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_3.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_music2.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_music2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-31:/layout_activity_rc.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_rc.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_layout_bottom.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\layout_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_layout_items.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\layout_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_test.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_layout2.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_layout2.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\raw_music3.ogg.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\raw\\music3.ogg"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_pyq.png.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\pyq.png"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_contact4.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\contact4.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_4.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_test0926.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\test0926.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\raw_music1.mp3.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\raw\\music1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\raw_music2.ogg.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\raw\\music2.ogg"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_1.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_frag.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_frag.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_contact.png.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_layout_test.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\layout_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_me1.png.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\me1.png"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_layout_top.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\layout_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_contact3.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\contact3.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\raw_music1.mgg.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\raw\\music1.mgg"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_music.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_layout4.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_layout4.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_message.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\message.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_contact1.webp.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\contact1.webp"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_2.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_fragment_layout1.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\fragment_layout1.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_main_contact.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_frag_test.xml.flat",
+        "source": "C:\\Users\\86139\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\frag_test.xml"
+    }
+]
